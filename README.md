@@ -1,4 +1,4 @@
-// # michaeljonathann.github.io
+<!-- # michaeljonathann.github.io -->
 # Data Scientist
 
 ### Education

@@ -1,5 +1,5 @@
 title: Michael Jonathan Panjaitan
 # logo: /assets/img/gambar.png
 # description: text below image
-show_downloads: true
-theme: jekyll-theme-midnight # merlot, midnight, minimal, modernist, slate
+# show_downloads: true
+theme: jekyll-theme-slate # merlot, midnight, minimal, modernist, slate

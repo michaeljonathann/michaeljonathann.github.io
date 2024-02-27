@@ -2,12 +2,12 @@
 # Data Scientist
 
 ### Education
-Undergraduate Computer Science student @ Universitas Negeri Semarang
+Undergraduate Computer Science student at Universitas Negeri Semarang
 
 ### Experience
-Machine Learning Graduate 2023 Batch 2 @ Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
-- big impact project 1!
-- big impact project 2!
+Machine Learning Graduate 2023 Batch 2 at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+- Contributed as Project Manager in Capstone Project
+- Contributed to build machine learning models in Capstone Project
 
 ### Projects
 project 1

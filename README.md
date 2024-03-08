@@ -14,6 +14,9 @@ Machine Learning Graduate 2023 Batch 2 at Bangkit Academy led by Google, Tokoped
 - Contributed as Project Manager in Capstone Project
 - Contributed to build machine learning models in Capstone Project
 
+Machine Learning Intern at PT Global Data Inspirasi ***(March 2024 - Present)***
+- Contributed to build voice recognition model
+
 ### Projects
 project 1
 - description 1
